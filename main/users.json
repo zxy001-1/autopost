@@ -71,4 +71,16 @@
         "password": "2020211772",
         "enable": "true"
     }
+      {
+        "name": "zxy",
+        "stucode": "2019211869",
+        "password": "2019211869",
+        "enable": "true"
+    }
+      {
+        "name": "rww",
+        "stucode": "2019212537",
+        "password": "2019212537",
+        "enable": "true"
+    }
 ]
